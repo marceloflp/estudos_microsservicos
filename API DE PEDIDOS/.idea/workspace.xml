@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7a907b-c2f5-4ea6-a205-09533ff351bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pedidos-api/src/main/java/br/com/marceloflp/pedidos/_api/entities/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos-api/src/main/java/br/com/marceloflp/pedidos/_api/entities/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidos-api/src/main/java/br/com/marceloflp/pedidos/_api/entities/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos-api/src/main/java/br/com/marceloflp/pedidos/_api/entities/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedidos-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedidos-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pedidos-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
