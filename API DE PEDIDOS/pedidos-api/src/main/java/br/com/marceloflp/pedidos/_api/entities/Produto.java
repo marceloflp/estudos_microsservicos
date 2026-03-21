@@ -16,7 +16,4 @@ public class Produto {
     private UUID id = UUID.randomUUID();
     private String nome;
     private Double valor;
-    private Status status;
-    @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss")
-    private LocalDateTime dataHora;
 }
