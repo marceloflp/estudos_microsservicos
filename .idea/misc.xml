@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/MICROSSERVICO DE NOTIFICACAO/notificacao/pom.xml" />
         <option value="$PROJECT_DIR$/API DE PEDIDOS/pedidos-api/pom.xml" />
+        <option value="$PROJECT_DIR$/MICROSSERVICO DE PEDIDOS/processador/pom.xml" />
       </list>
     </option>
   </component>
