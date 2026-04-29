@@ -19,6 +19,11 @@ public class PedidosListener {
 
     @RabbitListener(queues = "pedidos.v1.pedido-criado.gerar-notificacao")
     private void enviarNotificacao(Pedido pedido){
+
+        logger.info("Tentando consumir a mensagem");
+        if(pedido.getValorTotal() > 2000){
+            throw new RuntimeException("Valor acima do limite");
+        }
         emailService.enviaEmail(pedido);
         logger.info("Notificacao gerada: {}", pedido.toString());
     }
